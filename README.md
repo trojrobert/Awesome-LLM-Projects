@@ -15,17 +15,21 @@ The goal of this repository is to highlight the versatility and creativity of de
 We encourage you to contribute to this list by adding your own projects or recommending outstanding LLM-driven projects that have captured your attention. Please follow our contribution guidelines to make sure your submissions align with the vision of this repository.
 
 ## Contents
-
 - [Awesome-LLM-Projects ](#awsome-llm-projects)
     - [Why Awesome LLM Projects](#why-awesomeo-llm-projects)
     - [How Can These Projects Help You](#how-can-these-projects-help-you)
     - [Contriburting](#contributing)
-
+- [Frameworks](frameworks)
+    -[llamaindex](Llamaindex)
+  
+## Frameworks
 
 ### LlamaIndex 
-lamaIndex provides the key tools to augment your LLM applications with data.
+LlamaIndex (GPT Index) is a data framework for your LLM application.LlamaIndex provides the key tools to augment your LLM applications with data.
 
-website -  [link](https://www.llamaindex.ai/)
+website:  https://www.llamaindex.ai/
 
-GitHub Repository: [link](https://github.com/jerryjliu/llama_index)
+GitHub Repository: https://github.com/jerryjliu/llama_index
+
+Documentation: https://gpt-index.readthedocs.io/.
 
