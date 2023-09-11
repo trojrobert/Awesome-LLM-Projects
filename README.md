@@ -24,6 +24,8 @@ We encourage you to contribute to this list by adding your own projects or recom
 
 ### LlamaIndex 
 lamaIndex provides the key tools to augment your LLM applications with data.
+
 website -  [link](https://www.llamaindex.ai/)
+
 GitHub Repository: [link](https://github.com/jerryjliu/llama_index)
 
