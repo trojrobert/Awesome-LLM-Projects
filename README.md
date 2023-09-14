@@ -33,3 +33,19 @@ GitHub Repository: https://github.com/jerryjliu/llama_index
 
 Documentation: https://gpt-index.readthedocs.io/.
 
+### MetaGPT: The Multi-Agent Framework
+MetaGPT is a framework for assigning different roles to GPTs to form a collaborative software entity for complex tasks.
+
+GitHub Repository: https://github.com/geekan/MetaGPT
+
+## Retrieval Augmented Generation
+
+## Quivr
+Quivr, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
+
+GitHUb Repository: https://github.com/StanGirard/quivr
+
+Documentation: https://brain.quivr.app/docs/get_started/intro.html
+
+
+
