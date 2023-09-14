@@ -44,6 +44,12 @@ GitHub Repository: https://github.com/geekan/MetaGPT
 
 ========================================================================================================
 
+### Embedchain
+
+Embedchain is a framework to easily create LLM powered bots over any dataset. If you want a javascript version, check out embedchain-js
+
+Github Repository: https://github.com/embedchain/embedchain
+
 # Retrieval Augmented Generation
 
 ## Quivr
