@@ -21,6 +21,8 @@ We encourage you to contribute to this list by adding your own projects or recom
     - [Contriburting](#contributing)
 - [Frameworks](frameworks)
     -[llamaindex](Llamaindex)
+    -[MataGPT](MetaGPT: The Multi-Agent Framework)
+    -[Embedchain](Embedchain)
   
 # Frameworks
 
@@ -50,9 +52,12 @@ Embedchain is a framework to easily create LLM powered bots over any dataset. If
 
 Github Repository: https://github.com/embedchain/embedchain
 
-# Retrieval Augmented Generation
+========================================================================================================
 
-## Quivr
+# Retrieval Augmented Generation
+========================================================================================================
+
+### Quivr
 Quivr, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
 
 GitHUb Repository: https://github.com/StanGirard/quivr
@@ -60,5 +65,14 @@ GitHUb Repository: https://github.com/StanGirard/quivr
 Documentation: https://brain.quivr.app/docs/get_started/intro.html
 
 ==========================================================================================================
+
+# Interpreter 
+========================================================================================================
+
+### Open Interpreter  
+Open Interpreter lets LLMs run code (Python, Javascript, Shell, and more) locally. You can chat with Open Interpreter through a ChatGPT-like interface in your terminal by running $ interpreter after installing.
+
+GitHub Repository - https://github.com/KillianLucas/open-interpreter/
+
 
 
